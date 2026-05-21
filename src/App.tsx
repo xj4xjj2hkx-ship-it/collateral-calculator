@@ -88,7 +88,7 @@ const App: React.FC = () => {
       {/* Hero */}
       <div className="hero-bar glass-card">
         <div className="hero-bar-left">
-          <h1>抵质押物模拟分配器-MY1.0</h1>
+          <h1>抵质押物模拟分配器-FMY1.0</h1>
           <p>依据《民法典》第414条 · 排他物优先 + 按比例分配 · 同顺位最大化总回收额</p>
         </div>
         <div className="hero-bar-right">
